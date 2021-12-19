@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Akrobat-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Akrobat-Bold'),
+    url('../fonts/Akrobat-Bold.woff2') format('woff2'),
+    url('../fonts/Akrobat-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Akrobat-SemiBold';
+  font-weight: 600;
+  font-style: normal;
+  src: local('Akrobat-SemiBold'),
+    url('../fonts/Akrobat-SemiBold.woff2') format('woff2'),
+    url('../fonts/Akrobat-SemiBold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Roboto-Bold'),
+    url('../fonts/Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/Roboto-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto-Medium';
+  font-weight: 500;
+  font-style: normal;
+  src: local('Roboto-Medium'),
+    url('../fonts/Roboto-Medium.woff2') format('woff2'),
+    url('../fonts/Roboto-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Roboto-Regular'),
+    url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.woff') format('woff');
+  font-display: swap;
+}
